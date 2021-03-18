@@ -90,7 +90,7 @@ segoeuil.ttf                  seguili.ttf                   # Segoe UI Light
 seguisb.ttf                   seguisbi.ttf                  # Segoe UI Semibold
 segoeuisl.ttf                 seguisli.ttf                  # Segoe UI Semilight
 seguisym.ttf                                                # Segoe UI Symbol
-Sitka.ttc      SitkaB.ttc     SitkaI.ttc     SitkaZ.ttc     # Sitka
+#Sitka.ttc      SitkaB.ttc     SitkaI.ttc     SitkaZ.ttc     # Sitka
 sylfaen.ttf                                                 # Sylfaen
 symbol.ttf                                                  # Symbol
 tahoma.ttf     tahomabd.ttf                                 # Tahoma
@@ -151,6 +151,8 @@ simsun.ttc                                                  # NSimSun
 simsunb.ttf                                                 # SimSun-ExtB
 msyh.ttc       msyhbd.ttc                                   # Microsoft YaHei
 msyhl.ttc                                                   # Microsoft YaHei Light
+simhei.ttf                                                  # SimHei
+simkai.ttf                                                  # SimKai
 )
 
 _ttf_ms_win10_zh_tw=( # Chinese (Traditional)
